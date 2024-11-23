@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main",
+  "node.version": "v20.18.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/./src/main/frontend",
+  "connect.javaSourceFolder": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/src/main/java",
+  "javaResourceFolder": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/src/main/resources",
+  "connect.applicationProperties": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/./src/main/frontend/generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "build",
+  "react.enable": true
+}

@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/build/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/build/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/build/dev-bundle/config",
+  "jarResourcesFolder": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/./src/main/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "/home/hmora/ETCProjects/etc-curso/secure-code-assessment-main/build/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
